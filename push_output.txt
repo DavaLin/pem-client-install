@@ -1,0 +1,12 @@
+﻿git : fatal: unable to get credential storage lock in 1000 ms: Permission denied
+At D:\eva-browser\pem-client-install\push_script.ps1:2 char:5
++     git push gitee main 2>&1 | Out-File -FilePath "d:\eva-browser\pem ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (fatal: unable t...rmission denied:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+remote: Powered by [01;33mGITEE.COM [0m[1.1.23]        
+remote: Set trace flag 904e46be        
+To https://gitee.com/dava_lin/pem-client-install.git
+ ! [remote rejected] main -> main (reference already exists)
+error: failed to push some refs to 'https://gitee.com/dava_lin/pem-client-install.git'
