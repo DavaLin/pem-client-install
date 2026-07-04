@@ -1,7 +1,9 @@
 # pem-client
 和智慧·明镜 PEM 项目经营核算系统
 
-创业团队永久免费使用！[点击这里下载免费使用](./HerzverPEM Setup 3.5.4.exe)
+创业团队永久免费使用！   
+ 
+[点击这里下载免费使用](https://github.com/DavaLin/pem-client-install/blob/main/HerzverPEM%20Setup%203.5.4.exe)
 
 
 ![和智慧·明镜 PEM 项目经营核算系统 每个Campaign到底赚不赚钱？ 把预算、外协、开票、回款、利润复盘串成一张经营账，告别项目结束才发现白忙一场](image.png)
