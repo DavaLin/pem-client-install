@@ -52,7 +52,7 @@ Release notes 模板：
 
 ### 下载
 
-- 百度网盘： https://pan.baidu.com/s/10i81SKAYz232k8w4tqD9Xw?pwd=hpem
+- 百度网盘： https://pan.baidu.com/s/1YzYGVPg7AnUf7wRoAUTnEQ?pwd=hpem
 - GitHub Release：见本页面附件
 - Gitee 镜像： https://gitee.com/dava_lin/pem-client-install
 

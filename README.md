@@ -13,7 +13,7 @@
 | 下载方式 | 链接 | 说明 |
 | --- | --- | --- |
 | 官网下载页 | [查看下载说明](https://www.herzver.com/download.html) | 推荐入口 |
-| 百度网盘 | [下载客户端](https://pan.baidu.com/s/10i81SKAYz232k8w4tqD9Xw?pwd=hpem) | 推荐下载方式，提取码：`hpem` |
+| 百度网盘 | [下载客户端](https://pan.baidu.com/s/1YzYGVPg7AnUf7wRoAUTnEQ?pwd=hpem) | 推荐下载方式，提取码：`hpem` |
 | GitHub | [查看 GitHub 仓库](https://github.com/DavaLin/pem-client-install/raw/refs/heads/main/herzver_pem_setup_3.5.4.exe) | 官方镜像，适合作为备用下载 |
 | Gitee | [查看 Gitee 仓库](https://gitee.com/dava_lin/pem-client-install/raw/main/herzver_pem_setup_3.5.4.exe) | 国内备用镜像 |
 
@@ -90,7 +90,7 @@ Herzver_PEM_Setup_3.5.4.exe
 - 官网：[https://www.herzver.com](https://www.herzver.com)
 - 客户端下载页：[https://www.herzver.com/download.html](https://www.herzver.com/download.html)
 - 免费试用：[https://beta.herzver.com](https://beta.herzver.com)
-- 百度网盘下载：[https://pan.baidu.com/s/10i81SKAYz232k8w4tqD9Xw?pwd=hpem](https://pan.baidu.com/s/10i81SKAYz232k8w4tqD9Xw?pwd=hpem)
+- 百度网盘下载：[https://pan.baidu.com/s/1YzYGVPg7AnUf7wRoAUTnEQ?pwd=hpem](https://pan.baidu.com/s/1YzYGVPg7AnUf7wRoAUTnEQ?pwd=hpem)
 
 发布方：和智数据技术(广州)有限公司
 
